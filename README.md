@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Library Management**
 
-- 🌱 I’m currently learning **MERN stack, DSA - Dynamic Programming, Cloud Computing**
+- 🌱 I’m currently learning **MERN stack, Ngnix Server, DSA - Dynamic Programming, Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Web development projects Involving PHP and MySQL**
 
