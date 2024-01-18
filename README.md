@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishn18&label=Profile%20views&color=0e75b6&style=flat" alt="manishn18" /> </p>
 
-- 🔭 I’m currently working on **Library Management**
+- 🔭 I’m currently working on **React development**
 
-- 🌱 I’m currently learning **MERN stack, Ngnix Server, DSA - Dynamic Programming, Cloud Computing**
+- 🌱 I’m currently learning **Java backend development, Frontend, Typescript, NextJS**
 
-- 👯 I’m looking to collaborate on **Web development projects Involving PHP and MySQL**
+- 👯 I’m looking to collaborate on **Full stack development projects**
 
-- 💬 Ask me about **JS DOM, React, MERN stack, Operating Systems, Database Management Systems**
+- 💬 Ask me about **Frontend Development, Backend Development, Operating Systems, Database Management Systems**
 
 - 📫 How to reach me **mnawadkar18@gmail.com**
 
